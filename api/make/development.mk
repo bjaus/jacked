@@ -5,6 +5,11 @@ test: # Run the tests
 	@go test -v ./... -coverprofile=./build/coverage/coverage.out
 	@go tool cover -html=./build/coverage/coverage.out -o ./build/coverage/coverage.html
 
+.PHONY: serve
+serve: # Serve the service
+	@echo "Serving the service..."
+	@air
+
 .PHONY: run
 run: # Run the service
 	@echo "Running the service..."
