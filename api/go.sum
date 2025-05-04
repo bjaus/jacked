@@ -1,5 +1,3 @@
-github.com/bjaus/gokit v0.0.0-20250504182156-096d5cc42be3 h1:AEXvsvCiSMznOmhCh/f2ZVFx7B0kPHhcm4CroCOF7i8=
-github.com/bjaus/gokit v0.0.0-20250504182156-096d5cc42be3/go.mod h1:rMn8/HOGM2yEL8WVvBAJh8xa9ojr/CFJidyKTy0r9/E=
 github.com/bjaus/gokit v0.0.0-20250504191648-d2fdaada67ad h1:67u2wpokohbyO3jGdxEvTf4YsFNgMG/3LkSpgklSWc4=
 github.com/bjaus/gokit v0.0.0-20250504191648-d2fdaada67ad/go.mod h1:JvCYLpCTNR+jMADnlgS1iht9qAY15pmU08/OVMSwO+M=
 github.com/go-chi/chi/v5 v5.2.1 h1:KOIHODQj58PmL80G2Eak4WdvUzjSJSm0vG72crDCqb8=
